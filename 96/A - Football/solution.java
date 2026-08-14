@@ -1,0 +1,29 @@
+import java.util.Scanner;
+ 
+public class FootBall {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String str = sc.nextLine();
+        
+        int count = 1;
+        boolean found = false;
+ 
+        for (int i = 1; i < str.length(); i++) {
+            if (str.charAt(i) == str.charAt(i - 1)) {
+                count++;
+                if (count >= 7) {
+                    found = true;
+                    break;
+                }
+            } else {
+                count = 1;
+            }
+        }
+ 
+        if (found) {
+            System.out.println("YES");
+        } else {
+            System.out.println("NO");
+        }
+    }
+}
