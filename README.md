@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 91 | 20 |
+| 92 | 20 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (58)
 - [math](#math) (25)
-- [number theory](#number-theory) (4)
+- [number theory](#number-theory) (5)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (16)
@@ -245,6 +245,7 @@
 |---|---------|------------|----------|
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/122/A%20-%20Lucky%20Division/solution.java) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/230/B%20-%20T-primes/solution.java) |
+| 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.java) |
 
