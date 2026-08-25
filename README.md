@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 94 | 20 |
+| 95 | 20 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [binary search](#binary-search) (4)
+- [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (16)
 - [constructive algorithms](#constructive-algorithms) (4)
@@ -24,12 +24,12 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (20)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (60)
-- [math](#math) (26)
+- [implementation](#implementation) (61)
+- [math](#math) (27)
 - [number theory](#number-theory) (5)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (16)
+- [sortings](#sortings) (17)
 - [strings](#strings) (19)
 - [two pointers](#two-pointers) (2)
 
@@ -47,6 +47,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/230/B%20-%20T-primes/solution.java) |
+| 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.java) |
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.java) |
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.java) |
@@ -190,6 +191,7 @@
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
+| 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
 | 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
@@ -229,6 +231,7 @@
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/318/A%20-%20Even%20Odds/solution.java) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/479/A%20-%20Expression/solution.java) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
+| 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
@@ -277,6 +280,7 @@
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/230/A%20-%20Dragons/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
+| 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.java) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.java) |
