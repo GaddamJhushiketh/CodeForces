@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 95 | 20 |
+| 96 | 20 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (20)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (61)
+- [implementation](#implementation) (62)
 - [math](#math) (27)
 - [number theory](#number-theory) (5)
 - [schedules](#schedules) (2)
@@ -206,6 +206,7 @@
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
+| 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1669/A%20-%20Division%3F/solution.java) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1742/A%20-%20Sum/solution.java) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.java) |
