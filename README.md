@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 96 | 20 |
+| 97 | 20 |
 
 ---
 
@@ -25,8 +25,8 @@
 - [greedy](#greedy) (20)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (62)
-- [math](#math) (27)
-- [number theory](#number-theory) (5)
+- [math](#math) (28)
+- [number theory](#number-theory) (6)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (17)
@@ -240,6 +240,7 @@
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/2167/A%20-%20Square%3F/solution.java) |
@@ -256,6 +257,7 @@
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/122/A%20-%20Lucky%20Division/solution.java) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/230/B%20-%20T-primes/solution.java) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.java) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.java) |
 
