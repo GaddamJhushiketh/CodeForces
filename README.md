@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 104 | 20 |
+| 105 | 20 |
 
 ---
 
@@ -24,8 +24,8 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (21)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (67)
-- [math](#math) (30)
+- [implementation](#implementation) (68)
+- [math](#math) (31)
 - [number theory](#number-theory) (6)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
@@ -223,6 +223,7 @@
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.java) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.java) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.java) |
+| 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.java) |
 | 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.java) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.java) |
 | 2197B | [Array and Permutation](https://codeforces.com/contest/2197/problem/B) | 1100 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/2197/B%20-%20Array%20and%20Permutation/solution.java) |
@@ -256,6 +257,7 @@
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
+| 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.java) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/2167/A%20-%20Square%3F/solution.java) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.java) |
 | 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.java) |
