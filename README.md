@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 106 | 20 |
+| 107 | 20 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (21)
+- [greedy](#greedy) (22)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (69)
 - [math](#math) (32)
@@ -142,6 +142,7 @@
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.java) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.java) |
+| 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 | 2149B | [Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/2149/B%20-%20Unconventional%20Pairs/solution.java) |
 | 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [Java 21](https://github.com/GaddamJhushiketh/CodeForces/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.java) |
